@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: November 1, 2021
+### Day 1: November 1, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created service.yaml and deployment.yaml files as part of Udacity's AWS nanodegree program. Working on a lesson to implement k8s on AWS using simple docker containers created in an earlier lesson.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** As I understand it, Kubernetes is another layer of abstraction to automate continuous deployment. Application components -> docker images -> docker containers -> k8s pods -> k8s service
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [project to implement k8s](https://github.com/JWhitsitt/simple_node)
 
 ### Day 1: June 27, Monday
 
